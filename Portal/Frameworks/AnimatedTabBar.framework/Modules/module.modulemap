@@ -1,0 +1,10 @@
+framework module AnimatedTabBar {
+  umbrella header "AnimatedTabBar.h"
+
+  export *
+  module * { export * }
+}
+
+module AnimatedTabBar.Swift {
+    header "AnimatedTabBar-Swift.h"
+}
